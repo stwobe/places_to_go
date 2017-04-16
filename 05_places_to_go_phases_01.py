@@ -20,21 +20,21 @@ PHASES:
 DISCOVERY:
 	Build list..
 	Add places to list (in Documents2)..
-	Find paper list..
+	Find paper list.. (could not find)
 
 REQUIREMENTS:
 	Create a list in Sublime Text
 	Create local Git repo
 	Create Github repo
-	Push local to remote
-	Create repo in Tagadab
-	Pull from Github to Tagadab
+	Clone repo in Tagadab from Github
 
 SOLUTION:
-	Basic HTML file set up with BlueGriffon on LMDE/Laptop
+	Basic HTML file set up with BlueGriffon on LMDE/Laptop - further edits to HTML file to be done in Blue Griffon too
 	Created local repo in /home/flossie/Documents2/13_places_to_go_project/02_places
 	Created https://github.com/stwobe/places_to_go
 	Pushed code to Github
+	Cloned in Tagadab from Github in /home/logico/places_01
+	Create a softlink to html file - actual file is in /home - link is in /var/www/
 
 TIMELINE:
 	Sunday 16th April 2017
@@ -46,6 +46,7 @@ TIMELINE:
 	12:50 Push local to remote..
 	5:00 Create repo in Tagadab - https://git-scm.com/book/en/v1/Git-on-the-Server-The-Protocols - search "pull from github to server"
 	5:30 Pull from Github to Tagadab
+	8:10 Remove people's names
 '''
 
 '''
