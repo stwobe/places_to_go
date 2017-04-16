@@ -1,5 +1,7 @@
-# 02_places_to_go_01.py
-# Sub-title - "Hidden Places"
+# Title: places to go!
+# Sub-title: "Hidden Places"
+# Author: Steve Roberts 2017
+# About: This site is going to store all the cool, hidden places to explore
 '''
 PLACES:
 	Usk
