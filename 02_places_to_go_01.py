@@ -68,6 +68,7 @@ PLACES:
 		Flat place - on way to St Mellons - the bit to the left when you're driving and the M4 splits off to the A48 (M)
 		Tredegar park
 			The old abanboned golf course
+		Wales Coastal Path
 
 	Abergavenny region
 		Sugarloaf
@@ -88,5 +89,6 @@ PLACES:
 			Reservoir
 			Picnic site
 
-		St. Davids
+	St. Davids
+		Wales Coastal Path
 '''		
