@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>places_03</title>
+  </head>
+  <body>
+    <p>Places to go<br>
+      Sub-title - "Hidden Places"</p>
+    <p>PLACES</p>
+    <p>Usk</p>
+    <ul>
+      <li>Tunnel</li>
+      <li>Castle</li>
+      <li>Usk Island</li>
+      <li>Campsite</li>
+      <li>10,000 feet walk</li>
+      <li>Llancayo Windmill</li>
+    </ul>
+    <p><br>
+      &nbsp;&nbsp;&nbsp; Cwmbran<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Cwmbran Mountain<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; The "res"<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Cwm Lickey Pond<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Base Camp<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Mountain Air<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Canal<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Five Locks<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Two Locks<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Developed bit
+      where the new locks are - towards Cider Mill<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; The bit past
+      Cwmbran House - past the bridge/tunnel - after the bend<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Birches<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Forest<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Stream<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Mine<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Football fields<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; Pontypool<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Near old fountain - picnic site by
+      canal<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Park<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Grotto<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Folly<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Big stones<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Slides etc<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Ponds<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; Pantygasseg<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Canyon<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; Llandegefedd<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Reservoir<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Cafe<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Walk around res<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; Sorbrook<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Stream<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Field<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; Wentwood<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Picnic sites<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Reservoir picnic site<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Folly<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; Forest of Dean<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Campsites * 2<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; The Rock<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; The river<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; The chainbridge over the river<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+      &nbsp;&nbsp;&nbsp; Newport<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Christchurch<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; Big hill<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; Woods<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Flat place - on way to St Mellons -
+      the bit to the left when you're driving and the M4 splits off to the A48
+      (M)<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Tredegar park<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; The old abanboned
+      golf course<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; Abergavenny region<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Sugarloaf<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Front<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Side<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; The bit where you
+      can wild camp<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Skirrid<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Back<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Front<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Llanthony Priory<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Blorenge<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Offa's Dyke<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Hatterall Hill<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Gwryney Fawr<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Reservoir<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Picnic site<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; St. Davids<br>
+      '''&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </p>
+  </body>
+</html>
