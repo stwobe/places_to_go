@@ -33,6 +33,7 @@ REQUIREMENTS:
 SOLUTION:
 	Basic HTML file set up with BlueGriffon on LMDE/Laptop
 	Created local repo in /home/flossie/Documents2/13_places_to_go_project/02_places
+	Created https://github.com/stwobe/places_to_go
 
 TIMELINE:
 	Sunday 16th April 2017
@@ -40,12 +41,9 @@ TIMELINE:
 
 	10:00 Create list in Sublime..
 	10:30 Create local Git repo..
-	12:15 Create Github repo
-	12:30 Push local to remote
-	12:45 Create repo in Tagadab
-	1:00 Pull from Github to Tagadab
-	1:15 Lunch
-	2:00 Finish
+	12:40 Create Github repo.
+	12:50 Push local to remote
+	1:00 Lunch
 '''
 
 
