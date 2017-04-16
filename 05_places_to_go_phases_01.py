@@ -42,9 +42,10 @@ TIMELINE:
 
 	10:00 Create list in Sublime..
 	10:30 Create local Git repo..
-	12:40 Create Github repo.
-	12:50 Push local to remote
-	1:00 Lunch
+	12:40 Create Github repo..
+	12:50 Push local to remote..
+	Create repo in Tagadab - https://git-scm.com/book/en/v1/Git-on-the-Server-The-Protocols - search "pull from github to server"
+	Pull from Github to Tagadab
 '''
 
 '''
