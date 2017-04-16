@@ -34,6 +34,7 @@ SOLUTION:
 	Basic HTML file set up with BlueGriffon on LMDE/Laptop
 	Created local repo in /home/flossie/Documents2/13_places_to_go_project/02_places
 	Created https://github.com/stwobe/places_to_go
+	Pushed code to Github
 
 TIMELINE:
 	Sunday 16th April 2017
