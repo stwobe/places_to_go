@@ -46,6 +46,12 @@ TIMELINE:
 	1:00 Lunch
 '''
 
+'''
+CODE SNIPPET
+#
+git remote add origin https://github.com/stwobe/places_to_go.git
+git push -u origin master
+'''
 
 
 
