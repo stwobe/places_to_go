@@ -7,7 +7,7 @@ IDEAS:
 	Add a functionality - choose mode of transport, or how much time you have
 	This is a multimedia version of the book - like the one with Chris Barber doing the intro plus the old pic of Llancayo lighhouse             
 	Include audio - pyscho-geography
-	Include video - Jim - quad
-	Include video - Ben - film
+	Include video - JD - quad
+	Include video - BR - film
 	Include photos - Me
 '''
