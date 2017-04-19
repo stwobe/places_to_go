@@ -26,15 +26,15 @@ REQUIREMENTS:
 	Create a list in Sublime Text
 	Create local Git repo
 	Create Github repo
-	Clone repo in Tagadab from Github
+	Clone repo from Github to the VPS
 
 SOLUTION:
 	Basic HTML file set up with BlueGriffon on LMDE/Laptop - further edits to HTML file to be done in Blue Griffon too
-	Created local repo in /home/flossie/Documents2/13_places_to_go_project/02_places
+	Created local repo in ~/..../02_places
 	Created https://github.com/stwobe/places_to_go
 	Pushed code to Github
-	Cloned in Tagadab from Github in /home/logico/places_01
-	Create a softlink to html file - actual file is in /home - link is in /var/www/
+	Cloned in VPS from Github in ~/p..._01
+	Create a softlink to html file - actual file is in ~ - link is in /var/www/
 
 TIMELINE:
 	Sunday 16th April 2017
@@ -44,8 +44,8 @@ TIMELINE:
 	10:30 Create local Git repo..
 	12:40 Create Github repo..
 	12:50 Push local to remote..
-	5:00 Create repo in Tagadab - https://git-scm.com/book/en/v1/Git-on-the-Server-The-Protocols - search "pull from github to server"
-	5:30 Pull from Github to Tagadab
+	5:00 Create repo in VPS - https://git-scm.com/book/en/v1/Git-on-the-Server-The-Protocols - search "pull from github to server"
+	5:30 Pull from Github to VPS
 	8:10 Remove people's names
 '''
 
