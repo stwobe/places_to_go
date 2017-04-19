@@ -2,6 +2,7 @@
 # Sub-title: "Hidden Places"
 # Author: Steve Roberts 2017
 # About: This site is going to store all the cool, hidden places to explore
+# Original list - do not update this - update the HTML version instead
 '''
 PLACES:
 	Usk
@@ -22,7 +23,7 @@ PLACES:
 		Canal
 			Five Locks
 			Two Locks
-			Developed bit just past Alexis' house
+			Developed bit just past where the locks are - nr Ferranti
 			The bit past Cwmbran House - past the bridge/tunnel - after the bend
 
 		Birches
@@ -32,7 +33,7 @@ PLACES:
 			Football fields
 
 	Pontypool
-		by Kim's place - picnic site by canal
+		Nr old fountain - picnic site by canal
 		Park
 			Grotto
 			Folly
@@ -76,7 +77,7 @@ PLACES:
 		Sugarloaf
 			Front
 			Side
-			The bit Jason mentioned
+			The bit where you can wild-camp plus have fires etc
 
 		Skirrid
 			Back
