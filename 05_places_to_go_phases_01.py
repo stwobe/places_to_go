@@ -3,15 +3,13 @@
 '''
 PHASES:
 	1. INITIAL WEBPAGE - Create the webpage with a list in it
-	
-	2. PHOTOS
+	2. DJANGO - Convert site to Django
+	3. PHOTOS
 		Find photos already taken of places
-		Take photos of places missing so far
-		Add photos to webpages
-
-	3. DJANGO - Convert site to Django
-	4. DYNAMIC - Add dynamic functionality - choose distance
-	5. DYNAMIC 2 - Add other dynamic functionalities
+		Organize photos already taken of places
+	4. PHOTOS 2 - Add photos to webpages
+	5. DYNAMIC - Add dynamic functionality - categories - choose distance - First page will be "Places, Distance"
+	6. DYNAMIC 2 - Add other dynamic functionalities - activities, shops etc
 '''
 
 # PHASE 1
@@ -57,22 +55,20 @@ git push -u origin master
 '''
 
 
-
-
-
-
-
-
-
-
 # PHASE 2
+# DJANGO - Convert site to Django
 '''
-DISCOVERY:
-
 REQUIREMENTS:
+	Hyperlinked/nested categories - e.g. first page - says "Places"
+	Click on Places and you see Cwmbran, newport , Pontypool etc - the top level
+	Click on Cwmbran and you see Cwmbran Mountain, canal, Birches etc.
+	Click on Birches and you see Forest, Stream, Mine, football
+	Click on Stream - takes you to the Stream page
+
+DISCOVERY:
 
 SOLUTION:
 
 TIMELINE:
-
+Saturday 22nd April 2017 til Sunday night 23rd April 2017
 '''
