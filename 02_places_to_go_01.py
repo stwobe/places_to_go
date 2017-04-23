@@ -2,7 +2,9 @@
 # Sub-title: "Hidden Places"
 # Author: Steve Roberts 2017
 # About: This site is going to store all the cool, hidden places to explore
-# Original list - do not update this - update the HTML version instead
+
+# ******Original list - do not update this - update the HTML version instead*******
+
 '''
 PLACES:
 	Usk

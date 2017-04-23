@@ -19,7 +19,7 @@ DATABASE:
 		Toilets
 			Yes
 			No
-		Time from home
+		Time from homes
 			Walk
 			Drive
 			Cycle

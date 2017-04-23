@@ -10,4 +10,7 @@ IDEAS:
 	Include video - JD - quad
 	Include video - BR - film
 	Include photos - Me
+	Add - Users/logins/passwords/favourites etc
+	Search box - MongoDB style
+	Visualization of final, front page - draw it on computer - 
 '''
