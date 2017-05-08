@@ -3,13 +3,14 @@
 '''
 PHASES:
 	1. INITIAL WEBPAGE - Create the webpage with a list in it
-	2. DJANGO - Convert site to Django
-	3. PHOTOS
+	2. Improve HTML + CSS - make responsive
+	3. DJANGO - Convert site to Django
+	4. PHOTOS
 		Find photos already taken of places
 		Organize photos already taken of places
-	4. PHOTOS 2 - Add photos to webpages
-	5. DYNAMIC - Add dynamic functionality - categories - choose distance - First page will be "Places, Distance"
-	6. DYNAMIC 2 - Add other dynamic functionalities - activities, shops etc
+	5. PHOTOS 2 - Add photos to webpages
+	6. DYNAMIC - Add dynamic functionality - categories - choose distance - First page will be "Places, Distance"
+	7. DYNAMIC 2 - Add other dynamic functionalities - activities, shops etc
 '''
 
 # PHASE 1
@@ -55,7 +56,54 @@ git push -u origin master
 '''
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 # PHASE 2
+# Add CMS + improve HTML
+'''
+DISCOVERY:
+Using  site on phone - not responsive and it's white - not good
+
+REQUIREMENTS:
+Responsive + mobile friendly
+Tasteful green colour scheme
+
+SOLUTION:
+Get CSS from D Adams page - rsync it from server
+Get Bootstrap code from Adams page - rsync it from server
+Re-do HTML from scratch - use <ul><li> etc - in Blue Griffon
+
+TIMELINE:
+Monday May 8th 2017 - Sunday 14th MAy 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
+# PHASE 3
 # DJANGO - Convert site to Django
 '''
 REQUIREMENTS:
