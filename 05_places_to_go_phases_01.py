@@ -69,7 +69,7 @@ git push -u origin master
 
 
 # PHASE 2
-# Add CMS + improve HTML
+# Add CSS + improve HTML
 '''
 DISCOVERY:
 Using  site on phone - not responsive and it's white - not good
